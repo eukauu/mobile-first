@@ -5,6 +5,7 @@
 --branco:#FFFFFF;
 --amarelo:#FECD2F;
 --roxo:#8a1aa0;
+--preto:#000000;
 --fonte-principal:"Poppins"
 --fonte-segundaria: "josefin sans";
 }
@@ -15,3 +16,5 @@ font-family: var(--fonte-principal);
 font-size: 16px;
 font-weight: 400;
 }
+
+

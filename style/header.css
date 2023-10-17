@@ -59,7 +59,7 @@ display:none;
 display: block;
 }
 
-/*VERSÃO TLABLET*/
+/*VERSÃO TABLET*/
  @media screen and (min-width:1024px) {
     .container__titulo{
         font-family: var(--fonte-secundaria);
